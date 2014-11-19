@@ -8,4 +8,6 @@ Functions currently supported:
 - **max** (tip: this is equivalent to a any() function when combined with a == expression)
 
 Installation:
-  net install pkgname , from(https://github.com/sergiocorreia/egenfast)
+```stata
+net install egenfast , from(https://github.com/sergiocorreia/egenfast/raw/master/)
+```
