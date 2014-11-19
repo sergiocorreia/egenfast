@@ -1,0 +1,9 @@
+v 3
+d Sergio Correia, Duke University (sergio.correia@duke.edu)
+p egenfast EGENFAST - Alternative to egen that tries to be faster
+
+* l word-to-show path-or-url [description]
+* t: Directories within site:
+* t path [description]
+* Packages:
+* p pkgname [description]
