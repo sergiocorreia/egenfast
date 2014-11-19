@@ -1,0 +1,24 @@
+v 3
+
+d egenfast. Alternative to egen that tries to be faster
+d
+d Author: Sergio Correia, Duke University
+d Support: sergio.correia@duke.edu
+d
+d egenfast contains speedups to existing -egen- functions,
+d as well as new functions commonly used (by the autor).
+d It gains speed by mixing design tradeoffs (e.g. limiting preserves)
+d with optimizations
+d
+d KW: egen
+d
+d Requires: Stata version 10.0
+d
+d Distribution-Date: 20141118
+d
+
+f egenfast.ado
+f _gfastmax.ado
+f egenfast.sthlp
+
+e
