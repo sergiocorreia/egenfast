@@ -64,7 +64,7 @@ program define Parse
 	* Return results
 	local params type name fcn filename args in if options
 	foreach x of local params {
-		di as text "[`x'] = [" as result "``x''" as text "]"
+		* di as text "[`x'] = [" as result "``x''" as text "]"
 		c_local `x' "``x''"
 	}
 end
